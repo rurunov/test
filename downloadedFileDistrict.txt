@@ -1,0 +1,148 @@
+А: 
+Академический район - http://mosopen.ru/region/akademicheskij
+Алексеевский район - http://mosopen.ru/region/alekseevskij
+Алтуфьевский район - http://mosopen.ru/region/altufevskij
+Район Арбат - http://mosopen.ru/region/arbat
+Район Аэропорт - http://mosopen.ru/region/aeroport
+Б: 
+Бабушкинский район - http://mosopen.ru/region/babushkinskij
+Басманный район - http://mosopen.ru/region/basmannyj
+Район Беговой - http://mosopen.ru/region/begovoj
+Бескудниковский район - http://mosopen.ru/region/beskudnikovskij
+Район Бибирево - http://mosopen.ru/region/bibirevo
+Район Бирюлёво Восточное - http://mosopen.ru/region/biryulevo_vostochnoe
+Район Бирюлёво Западное - http://mosopen.ru/region/biryulevo_zapadnoe
+Район Богородское - http://mosopen.ru/region/bogorodskoe
+Район Братеево - http://mosopen.ru/region/brateevo
+Район Северное Бутово - http://mosopen.ru/region/butovo_severnoe
+Район Южное Бутово - http://mosopen.ru/region/butovo_yuzhnoe
+Бутырский район - http://mosopen.ru/region/butyrskij
+В: 
+Район Вешняки - http://mosopen.ru/region/veshnyaki
+Район Внуково - http://mosopen.ru/region/vnukovo
+Войковский район - http://mosopen.ru/region/vojkovskij
+Район Восточный - http://mosopen.ru/region/vostochnyj
+Район Выхино-Жулебино - http://mosopen.ru/region/vyhino-zhulebino
+Г: 
+Гагаринский район - http://mosopen.ru/region/gagarinskij
+Головинский район - http://mosopen.ru/region/golovinskij
+Район Гольяново - http://mosopen.ru/region/golyanovo
+Д: 
+Даниловский район - http://mosopen.ru/region/danilovskij
+Район Восточное Дегунино - http://mosopen.ru/region/degunino_vostochnoe
+Район Западное Дегунино - http://mosopen.ru/region/degunino_zapadnoe
+Дмитровский район - http://mosopen.ru/region/dmitrovskij
+Донской район - http://mosopen.ru/region/donskoj
+Район Дорогомилово - http://mosopen.ru/region/dorogomilovo
+З: 
+Район Замоскворечье - http://mosopen.ru/region/zamoskvoreche
+Район Зюзино - http://mosopen.ru/region/zyuzino
+Район Зябликово - http://mosopen.ru/region/zyablikovo
+И: 
+Район Ивановское - http://mosopen.ru/region/ivanovskoe
+Район Восточное Измайлово - http://mosopen.ru/region/izmajlovo_vostochnoe
+Район Измайлово - http://mosopen.ru/region/izmajlovo
+Район Северное Измайлово - http://mosopen.ru/region/izmajlovo_severnoe
+К: 
+Район Капотня - http://mosopen.ru/region/kapotnya
+Район Коньково - http://mosopen.ru/region/konkovo
+Район Коптево - http://mosopen.ru/region/koptevo
+Район Косино-Ухтомский - http://mosopen.ru/region/kosino-uhtomskij
+Район Котловка - http://mosopen.ru/region/kotlovka
+Красносельский район - http://mosopen.ru/region/krasnoselskij
+Район Крылатское - http://mosopen.ru/region/krylatskoe
+Район Крюково - http://mosopen.ru/region/kryukovo
+Район Кузьминки - http://mosopen.ru/region/kuzminki
+Район Кунцево - http://mosopen.ru/region/kuncevo
+Район Куркино - http://mosopen.ru/region/kurkino
+Л: 
+Район Левобережный - http://mosopen.ru/region/levoberezhnyj
+Район Лефортово - http://mosopen.ru/region/lefortovo
+Район Лианозово - http://mosopen.ru/region/lianozovo
+Ломоносовский район - http://mosopen.ru/region/lomonosovskij
+Лосиноостровский район - http://mosopen.ru/region/losinoostrovskij
+Район Люблино - http://mosopen.ru/region/lyublino
+М: 
+Район Марфино - http://mosopen.ru/region/marfino
+Район Марьина роща - http://mosopen.ru/region/marina_roshcha
+Район Марьино - http://mosopen.ru/region/marino
+Район Матушкино - http://mosopen.ru/region/matushkino
+Район Северное Медведково - http://mosopen.ru/region/medvedkovo_severnoe
+Район Южное Медведково - http://mosopen.ru/region/medvedkovo_yuzhnoe
+Район Метрогородок - http://mosopen.ru/region/metrogorodok
+Мещанский район - http://mosopen.ru/region/meshchanskij
+Район Митино - http://mosopen.ru/region/mitino
+Можайский район - http://mosopen.ru/region/mozhajskij
+Молжаниновский район - http://mosopen.ru/region/molzhaninovskij
+Район Москворечье-Сабурово - http://mosopen.ru/region/moskvoreche-saburovo
+Н: 
+Район Нагатино-Садовники - http://mosopen.ru/region/nagatino-sadovniki
+Район Нагатинский затон - http://mosopen.ru/region/nagatinskij_zaton
+Нагорный район - http://mosopen.ru/region/nagornyj
+Район Некрасовка - http://mosopen.ru/region/nekrasovka
+Нижегородский район - http://mosopen.ru/region/nizhegorodskij
+Район Ново-Переделкино - http://mosopen.ru/region/novo-peredelkino
+Район Новогиреево - http://mosopen.ru/region/novogireevo
+Район Новокосино - http://mosopen.ru/region/novokosino
+О: 
+Обручевский район - http://mosopen.ru/region/obruchevskij
+Район Орехово-Борисово Северное - http://mosopen.ru/region/orehovo-borisovo_severnoe
+Район Орехово-Борисово Южное - http://mosopen.ru/region/orehovo-borisovo_yuzhnoe
+Останкинский район - http://mosopen.ru/region/ostankinskij
+Район Отрадное - http://mosopen.ru/region/otradnoe
+Район Очаково-Матвеевское - http://mosopen.ru/region/ochakovo-matveevskoe
+П: 
+Район Перово - http://mosopen.ru/region/perovo
+Район Печатники - http://mosopen.ru/region/pechatniki
+Район Покровское-Стрешнево - http://mosopen.ru/region/pokrovskoe-streshnevo
+Район Преображенское - http://mosopen.ru/region/preobrazhenskoe
+Пресненский район - http://mosopen.ru/region/presnenskij
+Район Проспект Вернадского - http://mosopen.ru/region/prospekt_vernadskogo
+Р: 
+Район Раменки - http://mosopen.ru/region/ramenki
+Район Ростокино - http://mosopen.ru/region/rostokino
+Рязанский район - http://mosopen.ru/region/ryazanskij
+С: 
+Район Савёлки - http://mosopen.ru/region/savelki
+Савёловский район - http://mosopen.ru/region/savelovskij
+Район Свиблово - http://mosopen.ru/region/sviblovo
+Район Северный - http://mosopen.ru/region/severnyj
+Район Силино - http://mosopen.ru/region/silino
+Район Сокол - http://mosopen.ru/region/sokol
+Район Соколиная гора - http://mosopen.ru/region/sokolinaya_gora
+Район Сокольники - http://mosopen.ru/region/sokolniki
+Район Солнцево - http://mosopen.ru/region/solncevo
+Район Старое Крюково - http://mosopen.ru/region/staroe_kryukovo
+Район Строгино - http://mosopen.ru/region/strogino
+Т: 
+Таганский район - http://mosopen.ru/region/taganskij
+Тверской район - http://mosopen.ru/region/tverskoj
+Район Текстильщики - http://mosopen.ru/region/tekstilshchiki
+Район Тёплый Стан - http://mosopen.ru/region/teplyj_stan
+Тимирязевский район - http://mosopen.ru/region/timiryazevskij
+Район Тропарёво-Никулино - http://mosopen.ru/region/troparevo-nikulino
+Район Северное Тушино - http://mosopen.ru/region/tushino_severnoe
+Район Южное Тушино - http://mosopen.ru/region/tushino_yuzhnoe
+Ф: 
+Район Филёвский парк - http://mosopen.ru/region/filevskij_park
+Район Фили-Давыдково - http://mosopen.ru/region/fili-davydkovo
+Х: 
+Район Хамовники - http://mosopen.ru/region/hamovniki
+Район Ховрино - http://mosopen.ru/region/hovrino
+Район Хорошёво-Мневники - http://mosopen.ru/region/horoshevo-mnevniki
+Хорошёвский район - http://mosopen.ru/region/horoshevskij
+Ц: 
+Район Царицыно - http://mosopen.ru/region/caricyno
+Ч: 
+Район Черёмушки - http://mosopen.ru/region/cheremushki
+Район Чертаново Северное - http://mosopen.ru/region/chertanovo_severnoe
+Район Чертаново Центральное - http://mosopen.ru/region/chertanovo_centralnoe
+Район Чертаново Южное - http://mosopen.ru/region/chertanovo_yuzhnoe
+Щ: 
+Район Щукино - http://mosopen.ru/region/shchukino
+Ю: 
+Южнопортовый район - http://mosopen.ru/region/yuzhnoportovyj
+Я: 
+Район Якиманка - http://mosopen.ru/region/yakimanka
+Ярославский район - http://mosopen.ru/region/yaroslavskij
+Район Ясенево - http://mosopen.ru/region/yasenevo
